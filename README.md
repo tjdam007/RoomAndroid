@@ -1,6 +1,10 @@
 # RoomAndroid
 Implementation of Room Library For Android
 
+For more way to pull your data from datebase refer link below:
+
+https://developer.android.com/training/data-storage/room/accessing-data
+
     Copyright [2018] [Manoj Singh Rawal]
 
     Licensed under the Apache License, Version 2.0 (the "License");
