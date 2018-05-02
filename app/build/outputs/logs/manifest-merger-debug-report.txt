@@ -1,0 +1,138 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a0d6721d469fc3dc1514c7f9ab4315a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bed2b24cb8a012b164d517ea68b04741/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ab7e3fa6833aaa6331de5afa9b39a15c/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/29343ed7962ed0db3366f6572f99e693/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/1057a7cd38053df7d3f3b87bf6837fb1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/25b90a267d72360d60aa38d8fbddf236/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/db821993c0c14f35c0087676a1946f66/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/fb6234c0122df167819f4c84f6a11a88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cadc89a6da230ae92ab61376ff1aa989/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e2eb7c0ad284a73ddc80a03f5afcc642/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/3493a176c5cf73261b8012858be42d47/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/a44401e7f613f3d5186dbcc1cc377993/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:transition:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/1fa6637d29b38405cb76c8b848d56cd2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3eee996a8b680e8ec196829e3416076d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/349713e0da9f298044930df90b9acd33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dcdb9d96f030ee632d6ea5b7a424543d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/17b7efd5b8beb15a01a46de1ceac0dad/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/86c172d195e08684a1320c179ebe05b4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9c185d5e96c1308ac1d3afe72e4fd70f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/51e4dd5967702f4e7345d31016362201/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/763bf3d4c9d46d264ff1ddb04f9867be/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml
+		ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml
+		ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ab7e3fa6833aaa6331de5afa9b39a15c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ab7e3fa6833aaa6331de5afa9b39a15c/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/1057a7cd38053df7d3f3b87bf6837fb1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/1057a7cd38053df7d3f3b87bf6837fb1/AndroidManifest.xml:11:5-20
+	android:supportsRtl
+		ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.dev4solutions.roomlibex.MainActivity
+ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.dev4solutions.roomlibex.AddEditActivity
+ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:19:9-21:58
+	android:label
+		ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:21:13-55
+	android:name
+		ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml:20:13-44
+uses-sdk
+INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml
+INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a0d6721d469fc3dc1514c7f9ab4315a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a0d6721d469fc3dc1514c7f9ab4315a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bed2b24cb8a012b164d517ea68b04741/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bed2b24cb8a012b164d517ea68b04741/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ab7e3fa6833aaa6331de5afa9b39a15c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ab7e3fa6833aaa6331de5afa9b39a15c/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/29343ed7962ed0db3366f6572f99e693/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/29343ed7962ed0db3366f6572f99e693/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/1057a7cd38053df7d3f3b87bf6837fb1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/1057a7cd38053df7d3f3b87bf6837fb1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/25b90a267d72360d60aa38d8fbddf236/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/25b90a267d72360d60aa38d8fbddf236/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/db821993c0c14f35c0087676a1946f66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/db821993c0c14f35c0087676a1946f66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/fb6234c0122df167819f4c84f6a11a88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/fb6234c0122df167819f4c84f6a11a88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cadc89a6da230ae92ab61376ff1aa989/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cadc89a6da230ae92ab61376ff1aa989/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e2eb7c0ad284a73ddc80a03f5afcc642/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e2eb7c0ad284a73ddc80a03f5afcc642/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/3493a176c5cf73261b8012858be42d47/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/3493a176c5cf73261b8012858be42d47/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/a44401e7f613f3d5186dbcc1cc377993/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/a44401e7f613f3d5186dbcc1cc377993/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:transition:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/1fa6637d29b38405cb76c8b848d56cd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/1fa6637d29b38405cb76c8b848d56cd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3eee996a8b680e8ec196829e3416076d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3eee996a8b680e8ec196829e3416076d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/349713e0da9f298044930df90b9acd33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/349713e0da9f298044930df90b9acd33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dcdb9d96f030ee632d6ea5b7a424543d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dcdb9d96f030ee632d6ea5b7a424543d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/17b7efd5b8beb15a01a46de1ceac0dad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/svam/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/17b7efd5b8beb15a01a46de1ceac0dad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/86c172d195e08684a1320c179ebe05b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/86c172d195e08684a1320c179ebe05b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9c185d5e96c1308ac1d3afe72e4fd70f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9c185d5e96c1308ac1d3afe72e4fd70f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/51e4dd5967702f4e7345d31016362201/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/51e4dd5967702f4e7345d31016362201/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/763bf3d4c9d46d264ff1ddb04f9867be/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/svam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/763bf3d4c9d46d264ff1ddb04f9867be/AndroidManifest.xml:20:5-44
+INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml
+INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml
+		ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml
+		ADDED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/svam/AndroidStudioProjects/roomlibex/app/src/main/AndroidManifest.xml
